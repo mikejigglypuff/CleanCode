@@ -3,7 +3,7 @@ package cleanupV1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DirtyCode {
+public class Main {
     public static void main(String[] args) {
         List<String> seats = new ArrayList<>();
         seats.add("A1:AVAILABLE");

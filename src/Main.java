@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class DirtyCode {
+public class Main {
     public static void main(String[] args) {
         // 현재 예약 가능한 좌석
         List<String> seats = new ArrayList<>();
